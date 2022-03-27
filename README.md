@@ -14,9 +14,6 @@ The Calculator has ON OFF button which is made using Radio button.<br/>
 Entry Widget to take the user input.<br/>
 The Equal button does all the work in the code.<br/>
 
-Visit my Blogspot for more details
-[Blogspot](https://prathameshcode.blogspot.com/)
-
 # Author
 **Prathamesh Dhande**
 
