@@ -15,7 +15,7 @@ Entry Widget to take the user input.<br/>
 The Equal button does all the work in the code.<br/>
 
 Visit my Blogspot for more details
-[Blogspot](www.prathameshcode.blogspot.com)
+[Blogspot](https://www.prathameshcode.blogspot.com)
 
 # Author
 **Prathamesh Dhande**
