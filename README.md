@@ -1,6 +1,6 @@
 # Simple-Calculator-using-Python-Tkinter
 
-This is my First Python Project. I love to make GUI so i learned Tkinter and Made this Project.
+This is my First Python Project. I love to make GUI so i learned Tkinter and Made this Project. <br/>
 Calculator with basic Function.
 
 This Calculator has only basic function such as ADD, SUB, DIV, MUL ,etc.
