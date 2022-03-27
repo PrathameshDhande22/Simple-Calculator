@@ -15,5 +15,5 @@ Entry Widget to take the user input.<br/>
 The Equal button does all the work in the code.<br/>
 
 # Author
-## Prathamesh Dhande
+**Prathamesh Dhande**
 
