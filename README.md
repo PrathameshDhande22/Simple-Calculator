@@ -10,4 +10,7 @@ Used OOPs concept in the code.
 ## Screenshot of the Calculator
 ![image](https://user-images.githubusercontent.com/87264935/160288771-04c7df54-da2a-4edf-8d34-445707a9cccf.png)
 
+The Calculator has ON OFF button which is made using Radio button.
+Entry Widget to take the user input.
+The Equal button does all the work in the code.
 
